@@ -193,3 +193,7 @@ if __name__ == "__main__":
     for strategy in tried_driver_strategies[:10]:
         print(strategy, "\n")
     
+    print("\n\n\n")
+    print("Autonomous options considered: ", len(tried_auto_strategies))
+    print("Driver options considered: ", len(tried_driver_strategies))
+    
