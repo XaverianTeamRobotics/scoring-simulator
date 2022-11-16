@@ -1,5 +1,5 @@
 # scoring-simulator
-Simulate the scores of matches and get the best possible strategy during the game
+Simulate the scores of matches and get the best possible strategy during the game using the Monte Carlo method
 
 Note that the current data is fake and doesn't reflect the actual robot because there is no data available right now.
 
